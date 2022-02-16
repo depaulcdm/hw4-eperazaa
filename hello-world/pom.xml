@@ -12,6 +12,10 @@
 	<packaging>jar</packaging>
 	<name>SE441 Hello World</name>
 	
+   
+   <!-- 
+	   DONE: changed the versions to particular versions of Java
+   -->
     <properties>
 	  <maven.compiler.source>11</maven.compiler.source>
 	  <maven.compiler.target>11</maven.compiler.target>
