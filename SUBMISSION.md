@@ -34,7 +34,11 @@
 
 - [10 pts] A screen capture showing a successful build using the Maven script.
 
-![Screen Capture #6 - Maven Successful build](images/Maven_6.PNG)
+![Screen Capture #6a - Maven Successful build - part a](images/Maven_6a.PNG)
+![Screen Capture #6b - Maven Successful build - part b](images/Maven_6b.PNG)
+![Screen Capture #6c - Maven Successful build - part c](images/Maven_6c.PNG)
+![Screen Capture #6d - Maven Successful build - part d](images/Maven_6d.PNG)
+![Screen Capture #6e - Maven Successful build - part e](images/Maven_6e.PNG)
 
 
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Maven build.
